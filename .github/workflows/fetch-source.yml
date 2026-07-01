@@ -1,0 +1,35 @@
+name: fetch source
+
+
+on:
+    workflow_dispatch:
+
+    # Run every 2 days at midnight UTC
+    schedule:
+    - cron: '0 0 */1 * *'
+
+jobs:
+    fetch-source:
+        runs-on: ubuntu-latest
+        environment: fetch-source
+
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
+              with:
+                  # Important: Use the token to push back to the repo
+                  token: ${{ secrets.PAT_TOKEN }}
+            
+            - name: fetch
+
+              run: ./fetch_source.sh
+
+
+            - name: commit and push
+              run: |
+                  git config --local user.email "moohamadiann@gmail.com"
+                  git config --local user.name "Mohsen"
+                  git add .
+                  git diff --quiet && git diff --staged --quiet || git commit -m "Fetch/Update audio source"
+                  git push
+                
