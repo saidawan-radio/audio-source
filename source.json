@@ -2329,10 +2329,230 @@
             "document_id": 5904283982668767171,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/106_saidaWan_20241127-0801.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/106.jpg"
+        },
+        "107": {
+            "id": "107",
+            "title": "Aram & Nuri ( BAND )",
+            "performer": "SHAD KURDI",
+            "duration": 152,
+            "date": "20241127-1026",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "264",
+            "message": "",
+            "filename": "107_saidaWan_SHAD-KURDI_20241127-1026.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20241127-1026",
+            "size": 7,
+            "document_id": 5803013550091801928,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/107_saidaWan_SHAD-KURDI_20241127-1026.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/107.jpg"
+        },
+        "108": {
+            "id": "108",
+            "title": "Sterka sor",
+            "performer": "Shvan Parvar",
+            "duration": 299,
+            "date": "20241127-2220",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "265",
+            "message": "~>",
+            "filename": "108_saidaWan_Sterka-sor_Shvan-Parvar_20241127-2220.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20241219-2221",
+            "size": 5,
+            "document_id": 5350805561711550220,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/108_saidaWan_Sterka-sor_Shvan-Parvar_20241127-2220.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/108.jpg"
+        },
+        "109": {
+            "id": "109",
+            "title": "Tamburvanm",
+            "performer": "Shvan parvar",
+            "duration": 237,
+            "date": "20241128-0350",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "266",
+            "message": "~>",
+            "filename": "109_saidaWan_Tamburvanm_Shvan-parvar_20241128-0350.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20241219-2220",
+            "size": 4,
+            "document_id": 5350805561711550233,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/109_saidaWan_Tamburvanm_Shvan-parvar_20241128-0350.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/109.jpg"
+        },
+        "110": {
+            "id": "110",
+            "title": "Geli shoreshwan",
+            "performer": "Shvan parvar",
+            "duration": 213,
+            "date": "20241128-0401",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "267",
+            "message": "~>",
+            "filename": "110_saidaWan_Geli-shoreshwan_Shvan-parvar_20241128-0401.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20241219-2220",
+            "size": 4,
+            "document_id": 5350805561711550235,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/110_saidaWan_Geli-shoreshwan_Shvan-parvar_20241128-0401.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/110.jpg"
+        },
+        "111": {
+            "id": "111",
+            "title": "Navaa",
+            "performer": "Shajarian",
+            "duration": 436,
+            "date": "20241129-0040",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "268",
+            "message": "ما گدایان خیل سلطانیم\nشهربند هوای جانانیم\nبنده را نام خویشتن نبود\nهر چه ما را لقب دهند آنیم\nسعدی\n~>",
+            "filename": "111_saidaWan_Navaa_Shajarian_20241129-0040.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20241219-2220",
+            "size": 8,
+            "document_id": 5350805561711550228,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/111_saidaWan_Navaa_Shajarian_20241129-0040.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/111.jpg"
+        },
+        "112": {
+            "id": "112",
+            "title": "Laya layat bu dakam",
+            "performer": "Hasan zirak",
+            "duration": 524,
+            "date": "20241129-0940",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "269",
+            "message": "~>",
+            "filename": "112_saidaWan_Laya-layat-bu-dakam_Hasan-zirak_20241129-0940.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20241219-2220",
+            "size": 7,
+            "document_id": 5354952653283549623,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/112_saidaWan_Laya-layat-bu-dakam_Hasan-zirak_20241129-0940.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/112.jpg"
+        },
+        "113": {
+            "id": "113",
+            "title": "Gule",
+            "performer": "Dlzar Abedi",
+            "duration": 127,
+            "date": "20241129-0954",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "270",
+            "message": "مۆسیقا: دڵزار عابدی\nدەنگبێژ: ئەردەوان ڕۆستەمپوور\n~>",
+            "filename": "113_saidaWan_Gule_Dlzar-Abedi_20241129-0954.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20241219-2219",
+            "size": 6,
+            "document_id": 5265104815079315973,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/113_saidaWan_Gule_Dlzar-Abedi_20241129-0954.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/113.jpg"
+        },
+        "114": {
+            "id": "114",
+            "title": "وەرگەرێ باڵات ببینم",
+            "performer": "Hasan Zirak",
+            "duration": 306,
+            "date": "20241201-1630",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "272",
+            "message": "وەرگەڕێ باڵات ببینم\n\nحەسەن زیرەک",
+            "filename": "114_saidaWan_Hasan-Zirak_20241201-1630.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260626-1120",
+            "size": 6,
+            "document_id": 5904283982668767174,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/114_saidaWan_Hasan-Zirak_20241201-1630.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/114.jpg"
+        },
+        "115": {
+            "id": "115",
+            "title": "Magham Zhian",
+            "performer": "Hasan Zirak",
+            "duration": 132,
+            "date": "20241203-2050",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "274",
+            "message": "ژیان و ئه‌رکی ناخۆشی په‌پووله‌ی ئاره‌زووی کوشتم\nشه‌رابی جامی دڵداری له تافی لاویدا ڕشتم\n~>\nحەسەن زیرەک",
+            "filename": "115_saidaWan_Magham-Zhian_Hasan-Zirak_20241203-2050.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250218-1316",
+            "size": 3,
+            "document_id": 5366086930796667349,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/115_saidaWan_Magham-Zhian_Hasan-Zirak_20241203-2050.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/115.jpg"
+        },
+        "116": {
+            "id": "116",
+            "title": "مەقام",
+            "performer": "Hasan Zirak",
+            "duration": 60,
+            "date": "20241203-2106",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "275",
+            "message": "مخور می که بلاکش باشی\nدر روز قیامت که در آتش باشی\nآن هست ولیکن آنم بهتر\nکه یک لحظه از شراب سرخوش باشی\n~>",
+            "filename": "116_saidaWan_Hasan-Zirak_20241203-2106.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260626-1121",
+            "size": 1,
+            "document_id": 5904283982668767175,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/116_saidaWan_Hasan-Zirak_20241203-2106.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/116.jpg"
         }
     },
     "general_info": {
-        "total_duration": 32760,
-        "last_downloaded_internal_id": 106
+        "total_duration": 35246,
+        "last_downloaded_internal_id": 116
     }
 }
