@@ -1977,10 +1977,54 @@
             "document_id": 5884292980080123325,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/90_saidaWan_Naser-Razazi_20241114-1504.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/90.jpg"
+        },
+        "91": {
+            "id": "91",
+            "title": "Hasan Zirak & Mohamad Mamle & Aziz Mamle",
+            "performer": "@kurdgraphi",
+            "duration": 269,
+            "date": "20241115-1020",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "244",
+            "message": "🎙 حەسەن زیرەک & موحەمەد ماملێ & عەزیز ماملێ",
+            "filename": "91_saidaWan_Hasan-Zirak-Mohamad-Mamle-Aziz-Mamle_kurdgraphi_20241115-1020.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20241115-2145",
+            "size": 5,
+            "document_id": 5875405880995877707,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/91_saidaWan_Hasan-Zirak-Mohamad-Mamle-Aziz-Mamle_kurdgraphi_20241115-1020.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/91.jpg"
+        },
+        "92": {
+            "id": "92",
+            "title": "Çû Çem",
+            "performer": "Shursh Mahmoodi",
+            "duration": 237,
+            "date": "20241117-1120",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "245",
+            "message": "🎧Song: Çû Çem & Heyran\n🎙Singers: Mikail_Aslan Şoriş_Mehmûdî\nشۆڕش مەحموودی\nمیکاییل ئەسڵان",
+            "filename": "92_saidaWan_Shursh-Mahmoodi_20241117-1120.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260626-1028",
+            "size": 8,
+            "document_id": 5904283982668767154,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/92_saidaWan_Shursh-Mahmoodi_20241117-1120.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/92.jpg"
         }
     },
     "general_info": {
-        "total_duration": 27895,
-        "last_downloaded_internal_id": 90
+        "total_duration": 28401,
+        "last_downloaded_internal_id": 92
     }
 }
