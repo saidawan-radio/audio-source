@@ -2197,10 +2197,142 @@
             "document_id": 5330193639995888477,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/100_saidaWan_Law-damay-da_Ebrahim-Qaderi_20241120-2308.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/100.jpg"
+        },
+        "101": {
+            "id": "101",
+            "title": "Jhan",
+            "performer": "Ardeshir Kamkar - Zakarya Yousefi",
+            "duration": 348,
+            "date": "20241121-1128",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "257",
+            "message": "~>",
+            "filename": "101_saidaWan_Jhan_Ardeshir-Kamkar-Zakarya-Yousefi_20241121-1128.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20241219-2221",
+            "size": 15,
+            "document_id": 5906582365697741429,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/101_saidaWan_Jhan_Ardeshir-Kamkar-Zakarya-Yousefi_20241121-1128.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/101.jpg"
+        },
+        "102": {
+            "id": "102",
+            "title": "کاغەز دەنووسم",
+            "performer": "نەجمە غوڵامی",
+            "duration": 470,
+            "date": "20241122-0505",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "258",
+            "message": "کاغەز دەنووسم بۆ لەیلا \nبە دڵێکی پڕ بە خوێنەوە \nدەنگی قورینگان دێ لە هەوار\nدەڵێی کوێستانچین دێنەوە\n\nشەو داوەتیان تێکڕا دەکرد \nلالەبەدەستان \nچەند جوان و ڕێک و ژیکەلە \nکیژۆڵەی کوردستان\n\nمەقام: دڵم تەنگە\nگۆرانی‌بێژ: نەجمەدین غوڵامی\nشاعر مەقام: هەژار\n~>",
+            "filename": "102_saidaWan_20241122-0505.m4a",
+            "mime_type": "audio/mp4",
+            "edit_date": "20260626-1041",
+            "size": 8,
+            "document_id": 5904283982668767162,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/102_saidaWan_20241122-0505.m4a.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/102.jpg"
+        },
+        "103": {
+            "id": "103",
+            "title": "Wara Ey Yar",
+            "performer": "Naser Razazi",
+            "duration": 448,
+            "date": "20241122-2147",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "259",
+            "message": "~>",
+            "filename": "103_saidaWan_Wara-Ey-Yar_Naser-Razazi_20241122-2147.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260626-1102",
+            "size": 9,
+            "document_id": 5904283982668767170,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/103_saidaWan_Wara-Ey-Yar_Naser-Razazi_20241122-2147.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/103.jpg"
+        },
+        "104": {
+            "id": "104",
+            "title": "زەمین دی جای ئیمە نیە",
+            "performer": "شاخوە شین",
+            "duration": 389,
+            "date": "20241123-1021",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "260",
+            "message": "~>",
+            "filename": "104_saidaWan_20241123-1021.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260626-1051",
+            "size": 7,
+            "document_id": 5904283982668767168,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/104_saidaWan_20241123-1021.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/104.jpg"
+        },
+        "105": {
+            "id": "105",
+            "title": "NaOmedi",
+            "performer": "Hassan zirak",
+            "duration": 227,
+            "date": "20241126-1626",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "261",
+            "message": "~>",
+            "filename": "105_saidaWan_NaOmedi_Hassan-zirak_20241126-1626.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20241219-2221",
+            "size": 4,
+            "document_id": 5346083872234822873,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/105_saidaWan_NaOmedi_Hassan-zirak_20241126-1626.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/105.jpg"
+        },
+        "106": {
+            "id": "106",
+            "title": "جوانە کیژی مەدرەسە",
+            "performer": "نادیار",
+            "duration": 94,
+            "date": "20241127-0801",
+            "author_name": "𝑫𝒐𝒛𝒉𝒂𝒎",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "262",
+            "message": "",
+            "filename": "106_saidaWan_20241127-0801.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260626-1106",
+            "size": 2,
+            "document_id": 5904283982668767171,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/106_saidaWan_20241127-0801.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/106.jpg"
         }
     },
     "general_info": {
-        "total_duration": 30784,
-        "last_downloaded_internal_id": 100
+        "total_duration": 32760,
+        "last_downloaded_internal_id": 106
     }
 }
