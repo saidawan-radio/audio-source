@@ -3429,10 +3429,274 @@
             "document_id": 5881754370940347329,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/156_saidaWan_Mem-ARARAT_20241229-0709.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/156.jpg"
+        },
+        "157": {
+            "id": "157",
+            "title": "SHAW HAT",
+            "performer": "Peyman Alayee",
+            "duration": 153,
+            "date": "20241230-1650",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "323",
+            "message": "شەو هات و ئەمن مەستی خەیاڵاتی کەسێکم\nمەشغووڵی نەفەس گرتنی موشکین نەفەسێکم\nلەم حوجرە، لەبەر پەنجەرە کەوتووم و دەخوێنم\nبیعەینی دەڵێی بولبولی گۆشەی قەفەسێکم\nنالی\n~>",
+            "filename": "157_saidaWan_SHAW-HAT_Peyman-Alayee_20241230-1650.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260618-1810",
+            "size": 3,
+            "document_id": 5881754370940347330,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/157_saidaWan_SHAW-HAT_Peyman-Alayee_20241230-1650.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/157.jpg"
+        },
+        "158": {
+            "id": "158",
+            "title": "دەست مەدەن یاران لە دەردم",
+            "performer": "Hasan Zirak",
+            "duration": 510,
+            "date": "20241230-2025",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "324",
+            "message": ".\nبۆ سەرابی وەسڵی جانان وێڵ و سەرگەردانە دڵ",
+            "filename": "158_saidaWan_Hasan-Zirak_20241230-2025.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260626-1150",
+            "size": 14,
+            "document_id": 5904283982668767189,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/158_saidaWan_Hasan-Zirak_20241230-2025.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/158.jpg"
+        },
+        "159": {
+            "id": "159",
+            "title": "گفتم آهن دلی کنم چندی",
+            "performer": "Shajarian",
+            "duration": 534,
+            "date": "20241230-2026",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "325",
+            "message": "",
+            "filename": "159_saidaWan_Shajarian_20241230-2026.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260626-1154",
+            "size": 22,
+            "document_id": 5904769378397724528,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/159_saidaWan_Shajarian_20241230-2026.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/159.jpg"
+        },
+        "160": {
+            "id": "160",
+            "title": "آواز و نی",
+            "performer": "شجریان و موسوی",
+            "duration": 363,
+            "date": "20241230-2027",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "326",
+            "message": "بگذار تا مقابل روی تو بگذریم\nدزدیده در شمایل خوب تو بنگریم\nشوق است در جدایی و جُور است در نظر\nهم جُور به که طاقت شوقت نیاوریم\nسعدی\n~>\nمحمدرضا شجریان",
+            "filename": "160_saidaWan_20241230-2027.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250131-1234",
+            "size": 6,
+            "document_id": 5775977224884720913,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/160_saidaWan_20241230-2027.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/160.jpg"
+        },
+        "161": {
+            "id": "161",
+            "title": "dilteng",
+            "performer": "ferat",
+            "duration": 239,
+            "date": "20241230-2030",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "327",
+            "message": "",
+            "filename": "161_saidaWan_dilteng_ferat_20241230-2030.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20241230-2030",
+            "size": 4,
+            "document_id": 5877557221524508960,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/161_saidaWan_dilteng_ferat_20241230-2030.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/161.jpg"
+        },
+        "162": {
+            "id": "162",
+            "title": "Tasnife Tobeh Shekan",
+            "performer": "Homayoun Shajarian",
+            "duration": 309,
+            "date": "20241231-0811",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "328",
+            "message": "",
+            "filename": "162_saidaWan_Tasnife-Tobeh-Shekan_Homayoun-Shajarian_20241231-0811.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20241231-0811",
+            "size": 13,
+            "document_id": 5791983721888355636,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/162_saidaWan_Tasnife-Tobeh-Shekan_Homayoun-Shajarian_20241231-0811.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/162.jpg"
+        },
+        "163": {
+            "id": "163",
+            "title": "Were le",
+            "performer": "Deniz esmer",
+            "duration": 322,
+            "date": "20250102-1039",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "329",
+            "message": "",
+            "filename": "163_saidaWan_Were-le_Deniz-esmer_20250102-1039.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260626-1156",
+            "size": 8,
+            "document_id": 5904283982668767191,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/163_saidaWan_Were-le_Deniz-esmer_20250102-1039.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/163.jpg"
+        },
+        "164": {
+            "id": "164",
+            "title": "شەماڵ وەرە",
+            "performer": "حەسەن زیرەک|hasanzirak",
+            "duration": 603,
+            "date": "20250102-2039",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "331",
+            "message": "",
+            "filename": "164_saidaWan_20250102-2039.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250103-0758",
+            "size": 25,
+            "document_id": 5800854998313079451,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/164_saidaWan_20250102-2039.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/164.jpg"
+        },
+        "165": {
+            "id": "165",
+            "title": "تو تاریکی the darkness",
+            "performer": "او و دوستانش he and his friends",
+            "duration": 189,
+            "date": "20250102-2048",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "332",
+            "message": "@he_and_his_friends",
+            "filename": "165_saidaWan_20250102-2048.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250102-2048",
+            "size": 6,
+            "document_id": 5922319482352567508,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/165_saidaWan_20250102-2048.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/165.jpg"
+        },
+        "166": {
+            "id": "166",
+            "title": "هەناسەی نەی",
+            "performer": "Hasan Darzi",
+            "duration": 332,
+            "date": "20250103-0757",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "333",
+            "message": "هەناسەم گەر وەکوو نەی بوو سەدای نەی تازە هەر نادا\nدەڵێم خۆم هەست ئەکەم پیر بووم دڵم ئیجازە هەر نادا\nلە عیسای چاوەکەت ویستم تەماشایێکی مردوو کا\nدەنا ڤینۆسی ڕووت ئیزنێ بە ئەم ئیعجازە هەر نادا\nئاسۆ\n~>\nحەسەن دەرزی",
+            "filename": "166_saidaWan_Hasan-Darzi_20250103-0757.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250107-0429",
+            "size": 6,
+            "document_id": 6044276633500653243,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/166_saidaWan_Hasan-Darzi_20250103-0757.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/166.jpg"
+        },
+        "167": {
+            "id": "167",
+            "title": "ای مه من",
+            "performer": "MohammadReza Shajarian",
+            "duration": 315,
+            "date": "20250103-1126",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "334",
+            "message": "لاله رخ و زهره جبین ای صنم\n\nتا به تو دادم دل و دین\nبر همه کس گشته یقین\nمن زتو دوری نتوانم دیگر\nجانم وز تو صبوری نتوانم دیگر\n~>\nمحمدرضا شجریان",
+            "filename": "167_saidaWan_MohammadReza-Shajarian_20250103-1126.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250131-1229",
+            "size": 6,
+            "document_id": 6034894565205349037,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/167_saidaWan_MohammadReza-Shajarian_20250103-1126.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/167.jpg"
+        },
+        "168": {
+            "id": "168",
+            "title": null,
+            "performer": null,
+            "duration": 490,
+            "date": "20250104-1801",
+            "author_name": "‏∞... A.R...∞",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "335",
+            "message": "",
+            "filename": "168_saidaWan_20250104-1801.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250104-1801",
+            "size": 8,
+            "document_id": 6039691360775181293,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/168_saidaWan_20250104-1801.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/168.jpg"
         }
     },
     "general_info": {
-        "total_duration": 47481,
-        "last_downloaded_internal_id": 156
+        "total_duration": 51840,
+        "last_downloaded_internal_id": 168
     }
 }
