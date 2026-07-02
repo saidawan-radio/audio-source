@@ -3077,10 +3077,142 @@
             "document_id": 5881754370940347326,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/140_saidaWan_Rzgar-Malamahmoodi_20241219-2325.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/140.jpg"
+        },
+        "141": {
+            "id": "141",
+            "title": "Fîrqet",
+            "performer": "Rzgar Malamahmoodi",
+            "duration": 362,
+            "date": "20241219-2325",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "305",
+            "message": "• ڕزگار مەلامەحموودی \n• فیرقەت",
+            "filename": "141_saidaWan_Rzgar-Malamahmoodi_20241219-2325.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260618-1803",
+            "size": 6,
+            "document_id": 5881754370940347327,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/141_saidaWan_Rzgar-Malamahmoodi_20241219-2325.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/141.jpg"
+        },
+        "142": {
+            "id": "142",
+            "title": "Be naw",
+            "performer": "@saidawan",
+            "duration": 121,
+            "date": "20241220-1045",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "307",
+            "message": "~>",
+            "filename": "142_saidaWan_Be-naw_saidawan_20241220-1045.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20241222-1048",
+            "size": 2,
+            "document_id": 5994756171678881232,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/142_saidaWan_Be-naw_saidawan_20241220-1045.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/142.jpg"
+        },
+        "143": {
+            "id": "143",
+            "title": "Am shaw",
+            "performer": "@saidawan",
+            "duration": 166,
+            "date": "20241220-2310",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "308",
+            "message": "وا دیارە ئەمشەۆ دووارە گیریاوی\nچاۆانت كزەو ماتوو شێۆاوی\nهەركەس لێ داوی دەشكێنم دەسی\nحەۆت كۆسی كەۆێ نەمێنێ كەسی\nنە لەیل و مەجنوون شیرین و فەراد\nهەمووێ درۆ بوون نەگەین بە مۆراد\nتەنیا من و تۆ بێكەس ماینەۆە\nنەگەیشتین بە یەك هەی داد و بێ داد\nمحراب قەیتاسی\n~>",
+            "filename": "143_saidaWan_Am-shaw_saidawan_20241220-2310.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260618-1804",
+            "size": 3,
+            "document_id": 5994507561791919523,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/143_saidaWan_Am-shaw_saidawan_20241220-2310.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/143.jpg"
+        },
+        "144": {
+            "id": "144",
+            "title": "Namrdm",
+            "performer": "@saidawan",
+            "duration": 211,
+            "date": "20241221-1210",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "309",
+            "message": "نەمردم من ئەگەر ئەم جارە بێ تۆ\nنەچم، شەرت بێ، هەتا ئەم خوارە بێ تۆ\nدەروونم خاڵییە، وەک نەی دەناڵێ\nهەوارێکی چ پڕ هاوارە بێ تۆ\nبیناییم کوێرە، هەڵنایێ بە ڕووی کەس\nموژەم یەک یەک دەڵێی بزمارە بێ تۆ\nقەسەم بەو شەربەتی دیداری پاکەت\nشەرابم عەینی ژەهری مارە بێ تۆ\nلەکن تۆ خار و خەس گوڵزارە بێ من\nلەکن من خەرمەنی گوڵ خارە بێ تۆ\nنالی\n~>",
+            "filename": "144_saidaWan_Namrdm_saidawan_20241221-1210.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20241223-2045",
+            "size": 6,
+            "document_id": 5994507561791919507,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/144_saidaWan_Namrdm_saidawan_20241221-1210.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/144.jpg"
+        },
+        "145": {
+            "id": "145",
+            "title": "payiza",
+            "performer": "rzgar malamahmoodi",
+            "duration": 310,
+            "date": "20241222-0655",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "310",
+            "message": "By Odyssey",
+            "filename": "145_saidaWan_payiza_rzgar-malamahmoodi_20241222-0655.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20241222-0711",
+            "size": 5,
+            "document_id": 5418281022645099142,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/145_saidaWan_payiza_rzgar-malamahmoodi_20241222-0655.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/145.jpg"
+        },
+        "146": {
+            "id": "146",
+            "title": "Faranji Posh",
+            "performer": "Najmadn Gholami",
+            "duration": 546,
+            "date": "20241222-0928",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "311",
+            "message": "فەرنجی پۆش کەڵپۆس لە کــــــۆڵ\nبـۆ تـــۆ گـەڕاوم دوڵ بـــــــــە دوڵ\nهەردا و هەردم کرد دەشت و کــــۆ\nنامـــە ژێـــر پـــێ گـەڕام بۆ تـــــۆ\nلەدارســتان لـــە کــانــــی و ئـــاو\nلەگشــت لا تــۆم هاتە بــەرچـــاو\nگرتم شــوێنی هــەنـــگــــاوەکـــەت\nپرســیــم ســـۆراغی چـــــاوەکـــــەت",
+            "filename": "146_saidaWan_Faranji-Posh_Najmadn-Gholami_20241222-0928.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20241222-1044",
+            "size": 11,
+            "document_id": 5996618396483983445,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/146_saidaWan_Faranji-Posh_Najmadn-Gholami_20241222-0928.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/146.jpg"
         }
     },
     "general_info": {
-        "total_duration": 42480,
-        "last_downloaded_internal_id": 140
+        "total_duration": 44196,
+        "last_downloaded_internal_id": 146
     }
 }
