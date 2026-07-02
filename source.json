@@ -3209,10 +3209,230 @@
             "document_id": 5996618396483983445,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/146_saidaWan_Faranji-Posh_Najmadn-Gholami_20241222-0928.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/146.jpg"
+        },
+        "147": {
+            "id": "147",
+            "title": "Shekhi sanan",
+            "performer": "@saidaWan",
+            "duration": 319,
+            "date": "20241222-2102",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "313",
+            "message": "تۆ بەڵێنم پێ بدە تا من بەرەو ژوان ببمەوە\nبمدەیە ماچێکی تەڕ لەم لێوە، با جوان ببمەوە\nدەستی لەرزۆکم هەتا تێیدایە هێزی بەی گوشین\nلێم گەڕێ تاوێ لە باخی سینە میوان ببمەوە\nشێخی سەنعان بۆ کچی گاور لە ئیسلام وەرگەڕا\nمن خەریکم بۆ کچە شێخێ پەژیوان ببمەوە\nهێمن\n~>",
+            "filename": "147_saidaWan_Shekhi-sanan_saidaWan_20241222-2102.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20241223-0414",
+            "size": 8,
+            "document_id": 5994507561791919579,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/147_saidaWan_Shekhi-sanan_saidaWan_20241222-2102.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/147.jpg"
+        },
+        "148": {
+            "id": "148",
+            "title": "نم نم بارانە",
+            "performer": "مەسعوود یارە",
+            "duration": 248,
+            "date": "20241222-2113",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "314",
+            "message": "",
+            "filename": "148_saidaWan_20241222-2113.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260626-1139",
+            "size": 5,
+            "document_id": 5904283982668767185,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/148_saidaWan_20241222-2113.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/148.jpg"
+        },
+        "149": {
+            "id": "149",
+            "title": "Şewî Yełda ",
+            "performer": "Rizgar MelaMehmûdî",
+            "duration": 346,
+            "date": "20241224-1707",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "315",
+            "message": "شەوی یەلدایە، یا دەیجورە ئەمشەو\nکە دیدەم دوور لە تۆ بێنوورە ئەمشەو؟!\nدڵم وەک حاکمی مەعزوولە، قوربان!\nخەڵاتی وەسڵی تۆی مەنزوورە ئەمشەو\nلە دووریت من وەکوو بولبول دەناڵم\nبە وەسڵت عالەمێ مەسروورە ئەمشەو\nسوپای موژگان و تیغی ئەبروانت\nشکستی فیرقەیی تابوورە ئەمشەو\nنالی\n~>\nڕزگار مەلامەحموودی",
+            "filename": "149_saidaWan_20241224-1707.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250131-1328",
+            "size": 7,
+            "document_id": 6005826278085629728,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/149_saidaWan_20241224-1707.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/149.jpg"
+        },
+        "150": {
+            "id": "150",
+            "title": "Gaohare",
+            "performer": "Hasan darzi",
+            "duration": 305,
+            "date": "20241226-1636",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "316",
+            "message": "",
+            "filename": "150_saidaWan_Gaohare_Hasan-darzi_20241226-1636.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20241226-2353",
+            "size": 5,
+            "document_id": 6010065050029529046,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/150_saidaWan_Gaohare_Hasan-darzi_20241226-1636.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/150.jpg"
+        },
+        "151": {
+            "id": "151",
+            "title": "Dakhilm",
+            "performer": "Rzgar malamahmodi",
+            "duration": 198,
+            "date": "20241227-0115",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "317",
+            "message": "دەخیلتم ئەی بایی سوبحو ئیواران\nئەبەیتە گوڵشەن جێژوانگەی یاران\nدڵێک کە بۆتە گڕی بینی دەردەداران\nڕەشپۆشە وێنەی تازیە داران\nڕزگار مەلامەحموودی\n~>",
+            "filename": "151_saidaWan_Dakhilm_Rzgar-malamahmodi_20241227-0115.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20241227-1311",
+            "size": 4,
+            "document_id": 6012316849843214938,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/151_saidaWan_Dakhilm_Rzgar-malamahmodi_20241227-0115.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/151.jpg"
+        },
+        "152": {
+            "id": "152",
+            "title": "Shlera",
+            "performer": "Rzgar Malamahmodi",
+            "duration": 268,
+            "date": "20241227-1356",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "318",
+            "message": "شلێرە\n~>\nڕزگار مەلامەحموودی",
+            "filename": "152_saidaWan_Shlera_Rzgar-Malamahmodi_20241227-1356.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250308-1338",
+            "size": 5,
+            "document_id": 5438139766010831058,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/152_saidaWan_Shlera_Rzgar-Malamahmodi_20241227-1356.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/152.jpg"
+        },
+        "153": {
+            "id": "153",
+            "title": "Khami Nan ",
+            "performer": "Naser Razazi ",
+            "duration": 355,
+            "date": "20241228-1307",
+            "author_name": null,
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "319",
+            "message": "لە دەستە گەرمەکانی تۆ\nکە منداڵی ئاوەڵداوانەی ناو باوەشمن\nچیها قسەم پێیە بیکەم\nئەگەر خەمی نان لێم گەڕێ\nبێدەنگیی بێدەریخی گیانی تۆ\nمەسیحی دایک ئەی خۆرەتاو\nبە سازێکی بێکوتایی کە هەر تۆ بێ\nئەمن نەغمە لەسەر نەغمە سروودە دەڵێم\nئەگەر خەمی نان لێم گەڕێ\nئەحمەد شاملوو\n~>\nناسر رەزازی",
+            "filename": "153_saidaWan_Khami-Nan-_Naser-Razazi-_20241228-1307.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250131-1326",
+            "size": 6,
+            "document_id": 6017009419441673554,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/153_saidaWan_Khami-Nan-_Naser-Razazi-_20241228-1307.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/153.jpg"
+        },
+        "154": {
+            "id": "154",
+            "title": "Khalafe ahd",
+            "performer": "Mohamadreza Shajarian",
+            "duration": 658,
+            "date": "20241228-2125",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "320",
+            "message": "نه خلاف عهد کردم که حدیث جز تو گفتم\nهمه بر سر زبانند و تو در میان جانی\nدل عارفان ببردند و قرار پارسایان\nهمه شاهدان به صورت تو به صورت و معانی\nسعدی\n~>\nمحمدرضا شجریان",
+            "filename": "154_saidaWan_Khalafe-ahd_Mohamadreza-Shajarian_20241228-2125.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260216-1910",
+            "size": 11,
+            "document_id": 6014854634349270585,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/154_saidaWan_Khalafe-ahd_Mohamadreza-Shajarian_20241228-2125.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/154.jpg"
+        },
+        "155": {
+            "id": "155",
+            "title": "Xwezî Yarê(Kanîwar)",
+            "performer": "Berfin Aktay",
+            "duration": 336,
+            "date": "20241229-0705",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "321",
+            "message": "",
+            "filename": "155_saidaWan_Berfin-Aktay_20241229-0705.m4a",
+            "mime_type": "audio/m4a",
+            "edit_date": "20241229-0705",
+            "size": 6,
+            "document_id": 5958711010834518846,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/155_saidaWan_Berfin-Aktay_20241229-0705.m4a.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/155.jpg"
+        },
+        "156": {
+            "id": "156",
+            "title": "Keziyên Yarê",
+            "performer": "Mem ARARAT",
+            "duration": 252,
+            "date": "20241229-0709",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "322",
+            "message": "Keziyên yarê bi gul e, bi gul e çavxezal",
+            "filename": "156_saidaWan_Mem-ARARAT_20241229-0709.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260618-1808",
+            "size": 8,
+            "document_id": 5881754370940347329,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/musics/156_saidaWan_Mem-ARARAT_20241229-0709.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket02/master/covers/156.jpg"
         }
     },
     "general_info": {
-        "total_duration": 44196,
-        "last_downloaded_internal_id": 146
+        "total_duration": 47481,
+        "last_downloaded_internal_id": 156
     }
 }
