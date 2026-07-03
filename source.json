@@ -4312,8 +4312,8 @@
         },
         "197": {
             "id": "197",
-            "title": "Bgarewa [320]",
-            "performer": "Mikail Mahabadi",
+            "title": "Bgarewa",
+            "performer": "Mikail Mahamadi",
             "duration": 213,
             "date": "20250131-0541",
             "author_name": "‏∞... A.R...∞",
@@ -4326,7 +4326,7 @@
             "message": "بگه‌ڕێوه -میکاییل",
             "filename": "197_saidaWan_Mikail-Mahabadi_20250131-0541.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20250131-0542",
+            "edit_date": "20260702-1918",
             "size": 9,
             "document_id": 5827978489881434576,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/197_saidaWan_Mikail-Mahabadi_20250131-0541.mp3.opus",
@@ -4334,8 +4334,8 @@
         },
         "198": {
             "id": "198",
-            "title": null,
-            "performer": null,
+            "title": "Ahmet kaya",
+            "performer": "Ahmet kaya",
             "duration": 277,
             "date": "20250131-0729",
             "author_name": "Amin Kareshi",
@@ -4348,15 +4348,147 @@
             "message": "",
             "filename": "198_saidaWan_20250131-0729.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20250131-0729",
+            "edit_date": "20260702-1916",
             "size": 5,
             "document_id": 5803356468870650079,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/198_saidaWan_20250131-0729.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/198.jpg"
+        },
+        "199": {
+            "id": "199",
+            "title": "عەزیزم بۆچی تۆراوی",
+            "performer": "Adnan Karim",
+            "duration": 274,
+            "date": "20250201-0910",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "371",
+            "message": "عەزیزم بۆچی تۆراوی لە خۆڕا؟\nچ قەوماوە؟ دڵی تۆ بۆچی گۆڕا؟\nئەتۆ وا زوو لەبیرت کردم ئەمما\nفەرامۆشت نەکەم شەرتە لە گۆڕا\nسەر و ماڵ و کەماڵ و بیر و هۆشم\nلە نەردی عیشقی تۆدا پاکی دۆڕا\nهێمن\n~>\nعەدنان کەریم",
+            "filename": "199_saidaWan_Adnan-Karim_20250201-0910.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250201-1341",
+            "size": 7,
+            "document_id": 5832394854428055271,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/199_saidaWan_Adnan-Karim_20250201-0910.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/199.jpg"
+        },
+        "200": {
+            "id": "200",
+            "title": "Ruken Yılmaz - Çi Çeme Çeme",
+            "performer": "Ruken Yılmaz",
+            "duration": 159,
+            "date": "20250201-1622",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "372",
+            "message": "Çi çem e çem ew çema wi Ahmed Beg\nÇemkê ji Zаxokê\nÇi çem e, çem e ez qurbаnа\nÇemkê ji Zaxokê\n~>\nRuken Yılmaz",
+            "filename": "200_saidaWan_20250201-1622.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250203-1057",
+            "size": 7,
+            "document_id": 5832578906661591047,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/200_saidaWan_20250201-1622.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/200.jpg"
+        },
+        "201": {
+            "id": "201",
+            "title": "Min Digo Mele",
+            "performer": "Aynur",
+            "duration": 210,
+            "date": "20250202-0644",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "373",
+            "message": "Min digo melê lê lê min digo melê\nMalan bar kir lê lê çaydan kelê\n~>\nAynur Doğan",
+            "filename": "201_saidaWan_Min-Digo-Mele_Aynur_20250202-0644.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250203-1057",
+            "size": 9,
+            "document_id": 5798539882091520801,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/201_saidaWan_Min-Digo-Mele_Aynur_20250202-0644.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/201.jpg"
+        },
+        "202": {
+            "id": "202",
+            "title": "Taman",
+            "performer": "Karim Kaban",
+            "duration": 441,
+            "date": "20250203-0903",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "374",
+            "message": "ئەی تەمەنی پڕ ئەسرینم ئەڕۆی ئاوڕ نادەیتەوە\nلەگەڵ هەموو هەنگاوێکدا لە عومری من ئەسڕێیتەوە\nخۆزگە منیش وەک پەپولە گشت تەمەنم وەرزێ بوایە\n~>\nکەریم کابان",
+            "filename": "202_saidaWan_Taman_Karim-Kaban_20250203-0903.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260702-1921",
+            "size": 13,
+            "document_id": 5837028290916784114,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/202_saidaWan_Taman_Karim-Kaban_20250203-0903.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/202.jpg"
+        },
+        "203": {
+            "id": "203",
+            "title": "Do se shabe",
+            "performer": "Hadi Hadadi",
+            "duration": 534,
+            "date": "20250203-1150",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "375",
+            "message": "هر لحظه از غم می‌درد هجرت گریبان مرا\nدر خاک و در خون میکشد عشقت گریبان مرا \n~>\nهادی حدادی",
+            "filename": "203_saidaWan_Do-se-shabe_Hadi-Hadadi_20250203-1150.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250203-1334",
+            "size": 10,
+            "document_id": 5839066802654549225,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/203_saidaWan_Do-se-shabe_Hadi-Hadadi_20250203-1150.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/203.jpg"
+        },
+        "204": {
+            "id": "204",
+            "title": "سروه",
+            "performer": "Ahmad Lawa",
+            "duration": 424,
+            "date": "20250205-1433",
+            "author_name": "‏∞... A.R...∞",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "377",
+            "message": "سروه - ئه‌حمه‌د لاوه",
+            "filename": "204_saidaWan_Ahmad-Lawa_20250205-1433.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260702-1923",
+            "size": 7,
+            "document_id": 5845913135143195823,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/204_saidaWan_Ahmad-Lawa_20250205-1433.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/204.jpg"
         }
     },
     "general_info": {
-        "total_duration": 60751,
-        "last_downloaded_internal_id": 198
+        "total_duration": 62793,
+        "last_downloaded_internal_id": 204
     }
 }
