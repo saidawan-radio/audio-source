@@ -6069,10 +6069,208 @@
             "document_id": 5793911840081849415,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/276_saidaWan_Shirin-Shirin_Taher-Khalil_20250426-1415.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/276.jpg"
+        },
+        "277": {
+            "id": "277",
+            "title": "بەهارە خەمڕەوێنە",
+            "performer": "کەیهان کەلهۆڕ و ئەبداڵ ئەرزەنجان",
+            "duration": 446,
+            "date": "20250427-1618",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "462",
+            "message": "",
+            "filename": "277_saidaWan_20250427-1618.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250427-1618",
+            "size": 4,
+            "document_id": 5796305197722507772,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/277_saidaWan_20250427-1618.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/277.jpg"
+        },
+        "278": {
+            "id": "278",
+            "title": "سینه مالامال درد است",
+            "performer": "MohammadReza Shajarian",
+            "duration": 630,
+            "date": "20250427-2240",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "463",
+            "message": "سینه مالامال درد است ای دریغا مرهمی\nدل ز تنهایی به جان آمد خدا را همدمی\n\nچشم آسایش که دارد از سپهر تیزرو؟\nساقیا جامی به من ده تا بیاسایم دمی\nحافظ\n~>\nمحمدرضا شجریان",
+            "filename": "278_saidaWan_MohammadReza-Shajarian_20250427-2240.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250428-1236",
+            "size": 11,
+            "document_id": 5798759788712040095,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/278_saidaWan_MohammadReza-Shajarian_20250427-2240.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/278.jpg"
+        },
+        "279": {
+            "id": "279",
+            "title": "مەقام حیجاز",
+            "performer": "لەیلا فەریقی",
+            "duration": 623,
+            "date": "20250429-0928",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "464",
+            "message": "ئەو دەنگە. ئەو مەقاااامە.",
+            "filename": "279_saidaWan_20250429-0928.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260625-2346",
+            "size": 15,
+            "document_id": 5800808797349878603,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/279_saidaWan_20250429-0928.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/279.jpg"
+        },
+        "280": {
+            "id": "280",
+            "title": "ya mirin ya di‌yarbekir",
+            "performer": "Rzgar malamahmodi",
+            "duration": 169,
+            "date": "20250503-1303",
+            "author_name": null,
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "465",
+            "message": "",
+            "filename": "280_saidaWan_Rzgar-malamahmodi_20250503-1303.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260625-2345",
+            "size": 3,
+            "document_id": 5904283982668766980,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/280_saidaWan_Rzgar-malamahmodi_20250503-1303.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/280.jpg"
+        },
+        "281": {
+            "id": "281",
+            "title": "Kazacok",
+            "performer": "Mercan argunaga",
+            "duration": 143,
+            "date": "20250505-0857",
+            "author_name": null,
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "466",
+            "message": "Rêya xebatê çende sext û dûr be\nHawirdor me pêt û agir be\n\nVê rêya pîroz tu car em bernadin\nBo mirinê her tim amad in\n~>\nMercan argunaga",
+            "filename": "281_saidaWan_Kazacok_Mercan-argunaga_20250505-0857.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250510-1206",
+            "size": 3,
+            "document_id": 5834650554072046533,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/281_saidaWan_Kazacok_Mercan-argunaga_20250505-0857.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/281.jpg"
+        },
+        "282": {
+            "id": "282",
+            "title": "Nave Yara Men Nare",
+            "performer": "Aram Tigran",
+            "duration": 377,
+            "date": "20250508-0823",
+            "author_name": null,
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "467",
+            "message": "",
+            "filename": "282_saidaWan_Nave-Yara-Men-Nare_Aram-Tigran_20250508-0823.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260103-1751",
+            "size": 16,
+            "document_id": 5828030196992711339,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/282_saidaWan_Nave-Yara-Men-Nare_Aram-Tigran_20250508-0823.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/282.jpg"
+        },
+        "283": {
+            "id": "283",
+            "title": "Nasir Rezazî | Sozit Damê",
+            "performer": "@KBC_LM",
+            "duration": 241,
+            "date": "20250510-1157",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "468",
+            "message": "",
+            "filename": "283_saidaWan_KBC-LM_20250510-1157.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250510-1157",
+            "size": 10,
+            "document_id": 5834520519642192373,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/283_saidaWan_KBC-LM_20250510-1157.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/283.jpg"
+        },
+        "284": {
+            "id": "284",
+            "title": "Sharta Rashposh Bem",
+            "performer": "Hasan Zirak",
+            "duration": 253,
+            "date": "20250515-1704",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "469",
+            "message": "",
+            "filename": "284_saidaWan_Sharta-Rashposh-Bem_Hasan-Zirak_20250515-1704.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250516-0931",
+            "size": 5,
+            "document_id": 5832547970012158585,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/284_saidaWan_Sharta-Rashposh-Bem_Hasan-Zirak_20250515-1704.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/284.jpg"
+        },
+        "285": {
+            "id": "285",
+            "title": "زلف",
+            "performer": "Mohsen Namjoo",
+            "duration": 382,
+            "date": "20250518-2300",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "470",
+            "message": "زلف بر باد مده تا ندهی بر بادم\nناز بنیاد مکن تا نکَنی بنیادم\n\nمِی مخور با همه کس تا نخورم خون جگر\nسر مکش تا نکشد سر به فلک فریادم\n\nزلف را حلقه مکن تا نکنی در بندم\nطُرّه را تاب مده تا ندهی بر بادم\nحافظ\n~>\nمحسن نامجو",
+            "filename": "285_saidaWan_Mohsen-Namjoo_20250518-2300.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250518-2309",
+            "size": 7,
+            "document_id": 5859663421401732940,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/285_saidaWan_Mohsen-Namjoo_20250518-2300.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/285.jpg"
         }
     },
     "general_info": {
-        "total_duration": 85331,
-        "last_downloaded_internal_id": 276
+        "total_duration": 88595,
+        "last_downloaded_internal_id": 285
     }
 }
