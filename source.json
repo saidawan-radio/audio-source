@@ -6795,10 +6795,274 @@
             "document_id": 6050773853867612585,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/309_saidaWan_Mohamad-Motamedi_20250722-1347.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/309.jpg"
+        },
+        "310": {
+            "id": "310",
+            "title": "وەرن ئەی سازی ئاوارە",
+            "performer": "Adnan Karim",
+            "duration": 415,
+            "date": "20250724-1430",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "503",
+            "message": "وەرن ئەی سازی ئاوارە بە هانای سۆزی گریانم\nدڵم بەستەی دەوێ ئەمڕۆ بەجێ دێڵم موکریانم\n\nوەکوو هەنگاوەکانیشم دەلەرزێ وەک دڵ و دەنگم\nدەبا وێنەی منی کۆچەر بناڵێ سازی دڵتەنگم \n\nعەدنان کەریم",
+            "filename": "310_saidaWan_Adnan-Karim_20250724-1430.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250724-1546",
+            "size": 21,
+            "document_id": 5769400036521681281,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/310_saidaWan_Adnan-Karim_20250724-1430.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/310.jpg"
+        },
+        "311": {
+            "id": "311",
+            "title": "گەر نەمدیتێوە عازیزم",
+            "performer": "ماملێ",
+            "duration": 246,
+            "date": "20250725-0014",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "504",
+            "message": "ماملێ⭐\nگەر نەمدیتێوە ئازیزم بڕۆ بۆخۆت سڵامەت\nدیتنی یاران ئازیزم کەوتە قیامەت\nوێڵم بە دوای دەردی دڵم، غەریبم لە شارانم\nدەس بە سینە لارەملم، چاو بە گریە و گریانم",
+            "filename": "311_saidaWan_20250725-0014.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250725-0020",
+            "size": 5,
+            "document_id": 5422857477802717627,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/311_saidaWan_20250725-0014.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/311.jpg"
+        },
+        "312": {
+            "id": "312",
+            "title": "ئازیزەکەم | ماملێ",
+            "performer": "@MUS17C/ژیانەوە",
+            "duration": 29,
+            "date": "20250725-1209",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "505",
+            "message": "ئەوا کە دەڕۆی ئازیزەکەم\nخۆت و دڵەکەت!\nئامانەتت بێ ئازیزەکەم\nتاقە گوڵەکەت...\n💔",
+            "filename": "312_saidaWan_20250725-1209.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250725-1356",
+            "size": 1,
+            "document_id": 5771586024551487525,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/312_saidaWan_20250725-1209.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/312.jpg"
+        },
+        "313": {
+            "id": "313",
+            "title": null,
+            "performer": null,
+            "duration": 250,
+            "date": "20250727-1025",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "506",
+            "message": "",
+            "filename": "313_saidaWan_20250727-1025.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250727-1025",
+            "size": 2,
+            "document_id": 6051104295766465185,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/313_saidaWan_20250727-1025.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/313.jpg"
+        },
+        "314": {
+            "id": "314",
+            "title": "Ey Goli Awat",
+            "performer": "Hama Jaza",
+            "duration": 336,
+            "date": "20250729-2143",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "508",
+            "message": "",
+            "filename": "314_saidaWan_Ey-Goli-Awat_Hama-Jaza_20250729-2143.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250729-2143",
+            "size": 6,
+            "document_id": 5877364729680237229,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/314_saidaWan_Ey-Goli-Awat_Hama-Jaza_20250729-2143.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/314.jpg"
+        },
+        "315": {
+            "id": "315",
+            "title": "حەسەن زیرەک - مەناڵە بولبول",
+            "performer": "@Gardon_TV ",
+            "duration": 295,
+            "date": "20250729-2145",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "509",
+            "message": "",
+            "filename": "315_saidaWan_Gardon-TV-_20250729-2145.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250729-2148",
+            "size": 5,
+            "document_id": 6028589024933844298,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/315_saidaWan_Gardon-TV-_20250729-2145.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/315.jpg"
+        },
+        "316": {
+            "id": "316",
+            "title": "Che Benwsem [320]",
+            "performer": "Ayub Ali",
+            "duration": 266,
+            "date": "20250801-1844",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "511",
+            "message": "",
+            "filename": "316_saidaWan_Ayub-Ali_20250801-1844.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250801-1844",
+            "size": 11,
+            "document_id": 5794183415158807762,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/316_saidaWan_Ayub-Ali_20250801-1844.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/316.jpg"
+        },
+        "317": {
+            "id": "317",
+            "title": "Yaran Yaran",
+            "performer": "Tara Jaff",
+            "duration": 246,
+            "date": "20250802-1001",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "512",
+            "message": "",
+            "filename": "317_saidaWan_Yaran-Yaran_Tara-Jaff_20250802-1001.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250802-1001",
+            "size": 4,
+            "document_id": 6021620277287323615,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/317_saidaWan_Yaran-Yaran_Tara-Jaff_20250802-1001.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/317.jpg"
+        },
+        "318": {
+            "id": "318",
+            "title": "جەفاپیشە",
+            "performer": "Adnan Karim",
+            "duration": 348,
+            "date": "20250802-2230",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "513",
+            "message": "ئەڵێم دەرچم لە دنیادا، بکە ڕەحمێ هەتا ماوم\nلە حەڵقەی زوڵفی شێواودا، کە وا گیرۆدەیی داوم\nجەفاپیشە ئەوا مردم بە زەخمی تیری موژگانت\nلە قەبریشدا بە ناوی تۆ مەلا تەڵقینی داداوم\nمەکەن لۆمەم لە دنیادا، کە وا خۆم خستە داوی عەشق\nئەمە فەخرێکە بۆ مەحشەر، لە زومڕەی عاشقە ناوم\nپیرەمێرد\n~>\nعەدنان کەریم",
+            "filename": "318_saidaWan_Adnan-Karim_20250802-2230.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250802-2240",
+            "size": 14,
+            "document_id": 5798899190465567940,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/318_saidaWan_Adnan-Karim_20250802-2230.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/318.jpg"
+        },
+        "319": {
+            "id": "319",
+            "title": "کڵاولار",
+            "performer": "Adnan Karim",
+            "duration": 441,
+            "date": "20250803-2333",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "514",
+            "message": "کڵاولار! گورجی کەوڕەفتار! نەزەر ناکەی ئەڕۆی ئۆغر؟\nلە تیری ئاهی ناکامیم حەزەر ناکەی ئەڕۆی ئۆغر؟\n\nلە لای خەڵقی گەدایە گەردی ژێر پێی موڵکی دڵداری\nبە سایەت وەک هوما تاجم لەسەر ناکەی ئەڕۆی ئۆغر؟\nگۆران\n~>\nعەدنان کەریم",
+            "filename": "319_saidaWan_Adnan-Karim_20250803-2333.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250805-0557",
+            "size": 14,
+            "document_id": 5801150990279253095,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/319_saidaWan_Adnan-Karim_20250803-2333.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/319.jpg"
+        },
+        "320": {
+            "id": "320",
+            "title": "Ronî",
+            "performer": "Kul û Kulîlk",
+            "duration": 127,
+            "date": "20250804-0409",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "515",
+            "message": "",
+            "filename": "320_saidaWan_20250804-0409.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250804-0409",
+            "size": 3,
+            "document_id": 5958300356126444798,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/320_saidaWan_20250804-0409.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/320.jpg"
+        },
+        "321": {
+            "id": "321",
+            "title": "هانی",
+            "performer": "هانی",
+            "duration": 35,
+            "date": "20250805-1609",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "518",
+            "message": "لە گشت ڕۆیشتووی ئەم شەقامەڕێ\nکێ گەڕایەوە ڕاستی وت بە کێ...\n🤍🌱",
+            "filename": "321_saidaWan_20250805-1609.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260618-1834",
+            "size": 1,
+            "document_id": 5881754370940347344,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/321_saidaWan_20250805-1609.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/321.jpg"
         }
     },
     "general_info": {
-        "total_duration": 97100,
-        "last_downloaded_internal_id": 309
+        "total_duration": 100134,
+        "last_downloaded_internal_id": 321
     }
 }
