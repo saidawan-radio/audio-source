@@ -9061,10 +9061,142 @@
             "document_id": 5837146819129253508,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/412_saidaWan_Shajarian_20260226-2215.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/covers/412.jpg"
+        },
+        "413": {
+            "id": "413",
+            "title": "Gule",
+            "performer": "Hiva",
+            "duration": 117,
+            "date": "20260405-2223",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "620",
+            "message": "",
+            "filename": "413_saidaWan_Gule_Hiva_20260405-2223.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260416-0654",
+            "size": 6,
+            "document_id": 5951700597710265968,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/413_saidaWan_Gule_Hiva_20260405-2223.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/413.jpg"
+        },
+        "414": {
+            "id": "414",
+            "title": "Agar Rozhe Natbinem",
+            "performer": "Naser Razazi",
+            "duration": 286,
+            "date": "20260415-0914",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "621",
+            "message": "ئه‌گه‌ر ڕۆژە نەتبینم...",
+            "filename": "414_saidaWan_Agar-Rozhe-Natbinem_Naser-Razazi_20260415-0914.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260416-0654",
+            "size": 5,
+            "document_id": 6046485359087324862,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/414_saidaWan_Agar-Rozhe-Natbinem_Naser-Razazi_20260415-0914.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/414.jpg"
+        },
+        "415": {
+            "id": "415",
+            "title": "Name",
+            "performer": "Naser Razazi",
+            "duration": 418,
+            "date": "20260515-1841",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "622",
+            "message": "",
+            "filename": "415_saidaWan_Name_Naser-Razazi_20260515-1841.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260618-1816",
+            "size": 7,
+            "document_id": 5881754370940347332,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/415_saidaWan_Name_Naser-Razazi_20260515-1841.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/415.jpg"
+        },
+        "416": {
+            "id": "416",
+            "title": "ئەی هاوڕێیان",
+            "performer": "ناسر رەزازی",
+            "duration": 365,
+            "date": "20260515-1903",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "623",
+            "message": "",
+            "filename": "416_saidaWan_20260515-1903.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260706-2249",
+            "size": 8,
+            "document_id": 5771482258141617867,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/416_saidaWan_20260515-1903.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/416.jpg"
+        },
+        "417": {
+            "id": "417",
+            "title": "Kurdim",
+            "performer": "Naser Razzazi",
+            "duration": 135,
+            "date": "20260527-1838",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "624",
+            "message": "",
+            "filename": "417_saidaWan_Kurdim_Naser-Razzazi_20260527-1838.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260527-1838",
+            "size": 3,
+            "document_id": 5816818425384674709,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/417_saidaWan_Kurdim_Naser-Razzazi_20260527-1838.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/417.jpg"
+        },
+        "418": {
+            "id": "418",
+            "title": "خەیاڵی بادەکەی تۆ بوو",
+            "performer": "نادیار",
+            "duration": 235,
+            "date": "20260530-1801",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "625",
+            "message": "خەیاڵـــی بادەکەی تــۆ بوو منی کێشایە مەیخانە \nبەڵام ئێستا نە مەی دیارە نە ساقی دەوری پەیمانە \nلەشین و شیوەنی یاران سەرم سوڕماوە ئەی یاران\nلە کوێیە شایی وەفاداران کە دنیا بۆتە بتخانە\n\nفەنایی\n~>",
+            "filename": "418_saidaWan_20260530-1801.m4a",
+            "mime_type": "audio/m4a",
+            "edit_date": "20260611-1637",
+            "size": 4,
+            "document_id": 5825526969793518287,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/418_saidaWan_20260530-1801.m4a.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/418.jpg"
         }
     },
     "general_info": {
-        "total_duration": 128177,
-        "last_downloaded_internal_id": 412
+        "total_duration": 129733,
+        "last_downloaded_internal_id": 418
     }
 }
