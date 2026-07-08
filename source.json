@@ -9193,10 +9193,120 @@
             "document_id": 5825526969793518287,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/418_saidaWan_20260530-1801.m4a.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/418.jpg"
+        },
+        "419": {
+            "id": "419",
+            "title": "من و دڵ",
+            "performer": "مەزهەر خالقی",
+            "duration": 385,
+            "date": "20260601-2119",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "626",
+            "message": "ڕۆژێ من و دڵ بولبولی دڵ شادی چەمەن بووین\nهاوڕازی گوڵی گوڵشەن و نەسرین و سەمەن بووین\nئاسکی لە خەم ئازادی دەر و دەشت و دەمەن بووین\nفارغ لە جەفای ڕاوچی و لە داو و کەمەند بووین\n\nمەزهەر خالقی",
+            "filename": "419_saidaWan_20260601-2119.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260602-0800",
+            "size": 16,
+            "document_id": 5832717376407216229,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/419_saidaWan_20260601-2119.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/419.jpg"
+        },
+        "420": {
+            "id": "420",
+            "title": "Gulbarin",
+            "performer": "Hani Mojtahedi",
+            "duration": 319,
+            "date": "20260609-2056",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "632",
+            "message": "Hani❤️",
+            "filename": "420_saidaWan_Gulbarin_Hani-Mojtahedi_20260609-2056.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260706-2252",
+            "size": 6,
+            "document_id": 5856955813888793982,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/420_saidaWan_Gulbarin_Hani-Mojtahedi_20260609-2056.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/420.jpg"
+        },
+        "421": {
+            "id": "421",
+            "title": "پرواز عشق",
+            "performer": "محمدرضا لطفی",
+            "duration": 362,
+            "date": "20260616-0945",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "633",
+            "message": "تار و نی\n~>\nاز ساخته های لطفی",
+            "filename": "421_saidaWan_20260616-0945.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260616-0950",
+            "size": 6,
+            "document_id": 5877474032302957684,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/421_saidaWan_20260616-0945.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/421.jpg"
+        },
+        "422": {
+            "id": "422",
+            "title": "قیبلەی مورادان",
+            "performer": "Kani",
+            "duration": 409,
+            "date": "20260617-1830",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "634",
+            "message": "مردم و نەمزانی ئەو ئاورەی منی سووتاند چ بوو\nحاسڵی سەیر و سلووکی عاشقان هەر حەیرەتە\nمردم و هەرگیز نەگەیمە قیبلەیی تاقی برۆت\nئاخر ئەی قیبلەی مورادان تا بەکەی ئەم حەسرەتە؟\nوەفایی\n~>\nکانی",
+            "filename": "422_saidaWan_Kani_20260617-1830.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260617-1837",
+            "size": 11,
+            "document_id": 5879725832116643578,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/422_saidaWan_Kani_20260617-1830.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/422.jpg"
+        },
+        "423": {
+            "id": "423",
+            "title": "Ay Yari Nazdar",
+            "performer": "Agreen Dilshad",
+            "duration": 353,
+            "date": "20260706-0916",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "638",
+            "message": "",
+            "filename": "423_saidaWan_Ay-Yari-Nazdar_Agreen-Dilshad_20260706-0916.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260706-2251",
+            "size": 6,
+            "document_id": 5933598702127030242,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/423_saidaWan_Ay-Yari-Nazdar_Agreen-Dilshad_20260706-0916.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/423.jpg"
         }
     },
     "general_info": {
-        "total_duration": 129733,
-        "last_downloaded_internal_id": 418
+        "total_duration": 131561,
+        "last_downloaded_internal_id": 423
     }
 }
