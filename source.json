@@ -9325,10 +9325,32 @@
             "document_id": 5965256824461466457,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/424_saidaWan_Mikail-Aslan_20260716-1819.m4a.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/424.jpg"
+        },
+        "425": {
+            "id": "425",
+            "title": "مرا خود با تو سری",
+            "performer": "Mohsen Nmajoo",
+            "duration": 196,
+            "date": "20260722-1934",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "640",
+            "message": "مرا خود با تو سری در میان هست\nو گر نه روی زیبا در جهان هست\n\nوجودی دارم از مهرت گدازان\nوجودم رفت و مهرت همچنان هست\nسعدی\n~>\nمحسن نامجو",
+            "filename": "425_saidaWan_Mohsen-Nmajoo_20260722-1934.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260722-1934",
+            "size": 4,
+            "document_id": 5983108014213701473,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/425_saidaWan_Mohsen-Nmajoo_20260722-1934.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/425.jpg"
         }
     },
     "general_info": {
-        "total_duration": 131561,
-        "last_downloaded_internal_id": 424
+        "total_duration": 131757,
+        "last_downloaded_internal_id": 425
     }
 }
