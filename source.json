@@ -9347,10 +9347,54 @@
             "document_id": 5983108014213701473,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/425_saidaWan_Mohsen-Nmajoo_20260722-1934.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/425.jpg"
+        },
+        "426": {
+            "id": "426",
+            "title": "من تێناگەم",
+            "performer": "Hani Mojtahedi",
+            "duration": 281,
+            "date": "20260723-1433",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "642",
+            "message": "Hani min tenagam by Halkawt Zaher خاتوو هانی - من تێناگەم.",
+            "filename": "426_saidaWan_Hani-Mojtahedi_20260723-1433.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260724-1534",
+            "size": 5,
+            "document_id": 5987869152965043012,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/426_saidaWan_Hani-Mojtahedi_20260723-1433.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/426.jpg"
+        },
+        "427": {
+            "id": "427",
+            "title": "گۆزەی تازە",
+            "performer": "Naser Razazi",
+            "duration": 303,
+            "date": "20260724-1531",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "644",
+            "message": "ئێوارەیە وا، هەڵگرە سا گۆزەیی تازە\nڕێی کانی قوربان! مونتەزیری جیلوەیی نازە،\nبەردەرگەکەتان قیبلەیی ڕووی ئەهلی نیازە،\nئێوارەیە وا، هەڵگرە سا گۆزەیی تازە!\nگۆران",
+            "filename": "427_saidaWan_Naser-Razazi_20260724-1531.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260724-1531",
+            "size": 4,
+            "document_id": 5987869152965042914,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/427_saidaWan_Naser-Razazi_20260724-1531.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/427.jpg"
         }
     },
     "general_info": {
-        "total_duration": 131757,
-        "last_downloaded_internal_id": 425
+        "total_duration": 132341,
+        "last_downloaded_internal_id": 427
     }
 }
