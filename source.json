@@ -9391,10 +9391,54 @@
             "document_id": 5987869152965042914,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/427_saidaWan_Naser-Razazi_20260724-1531.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/427.jpg"
+        },
+        "428": {
+            "id": "428",
+            "title": "Roj u Shew - Bayat",
+            "performer": "Gashtyar Kawa",
+            "duration": 213,
+            "date": "20260726-1601",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "645",
+            "message": "",
+            "filename": "428_saidaWan_Roj-u-Shew-Bayat_Gashtyar-Kawa_20260726-1601.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260726-1748",
+            "size": 4,
+            "document_id": 5994602411849685608,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/428_saidaWan_Roj-u-Shew-Bayat_Gashtyar-Kawa_20260726-1601.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/428.jpg"
+        },
+        "429": {
+            "id": "429",
+            "title": "بۆی دێنم",
+            "performer": "Mazhar Khaleghi",
+            "duration": 352,
+            "date": "20260726-2115",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "646",
+            "message": "",
+            "filename": "429_saidaWan_Mazhar-Khaleghi_20260726-2115.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260726-2115",
+            "size": 8,
+            "document_id": 5994602411849685772,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/429_saidaWan_Mazhar-Khaleghi_20260726-2115.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/429.jpg"
         }
     },
     "general_info": {
-        "total_duration": 132341,
-        "last_downloaded_internal_id": 427
+        "total_duration": 132906,
+        "last_downloaded_internal_id": 429
     }
 }
