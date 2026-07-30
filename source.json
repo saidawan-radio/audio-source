@@ -9435,10 +9435,54 @@
             "document_id": 5994602411849685772,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/429_saidaWan_Mazhar-Khaleghi_20260726-2115.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/429.jpg"
+        },
+        "430": {
+            "id": "430",
+            "title": "Natwanm",
+            "performer": "Saman Omar",
+            "duration": 0,
+            "date": "20260727-1807",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "647",
+            "message": "",
+            "filename": "430_saidaWan_Natwanm_Saman-Omar_20260727-1807.m4a",
+            "mime_type": "audio/mp4",
+            "edit_date": "20260727-1828",
+            "size": 5,
+            "document_id": 5850537586560341992,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/430_saidaWan_Natwanm_Saman-Omar_20260727-1807.m4a.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/430.jpg"
+        },
+        "431": {
+            "id": "431",
+            "title": "Khorushe Yar",
+            "performer": "Mohamad Motamedi",
+            "duration": 283,
+            "date": "20260728-2110",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "648",
+            "message": "بُوَد آیا که درِ میکده‌ها بگشایند؟\nگره از کارِ فروبستهٔ ما بگشایند؟\n\nدرِ میخانه ببستند خدایا مپسند\nکه درِ خانهٔ تزویر و ریا بگشایند\nحافظ\n~>\nمحمد معتمدی",
+            "filename": "431_saidaWan_Khorushe-Yar_Mohamad-Motamedi_20260728-2110.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260728-2110",
+            "size": 5,
+            "document_id": 6001149002865712397,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/431_saidaWan_Khorushe-Yar_Mohamad-Motamedi_20260728-2110.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/431.jpg"
         }
     },
     "general_info": {
-        "total_duration": 132906,
-        "last_downloaded_internal_id": 429
+        "total_duration": 133189,
+        "last_downloaded_internal_id": 431
     }
 }
