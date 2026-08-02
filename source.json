@@ -9474,15 +9474,81 @@
             "message": "بُوَد آیا که درِ میکده‌ها بگشایند؟\nگره از کارِ فروبستهٔ ما بگشایند؟\n\nدرِ میخانه ببستند خدایا مپسند\nکه درِ خانهٔ تزویر و ریا بگشایند\nحافظ\n~>\nمحمد معتمدی",
             "filename": "431_saidaWan_Khorushe-Yar_Mohamad-Motamedi_20260728-2110.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20260728-2110",
+            "edit_date": "20260729-1428",
             "size": 5,
             "document_id": 6001149002865712397,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/431_saidaWan_Khorushe-Yar_Mohamad-Motamedi_20260728-2110.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/431.jpg"
+        },
+        "432": {
+            "id": "432",
+            "title": "Omide Janam",
+            "performer": "Delkash",
+            "duration": 359,
+            "date": "20260730-1730",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "650",
+            "message": "",
+            "filename": "432_saidaWan_Omide-Janam_Delkash_20260730-1730.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260730-1739",
+            "size": 15,
+            "document_id": 6005551043696401771,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/432_saidaWan_Omide-Janam_Delkash_20260730-1730.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/432.jpg"
+        },
+        "433": {
+            "id": "433",
+            "title": "شەڕ داوەتی کوردانە",
+            "performer": "Mohamad Mamle",
+            "duration": 198,
+            "date": "20260801-1451",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "651",
+            "message": "وەرە وەرە سەر داوەتێ، داوەت گەرمە و خۆمانە\nشایی و گۆڤەندی وا خۆشە، گەڕی لەسەر دڵانە\nتێچریکێنە دە چریکێکی تەڕ و شۆڕ و مێرانە\nبا بچینە مەڵبەندی شەڕێ، شەڕ داوەتی کوردانە\nلە دووری چاوی چاوەکەم، ژین و ماڵم وێرانە\nخۆت بۆ بەکوشت دەدەم، ژینم بە پێوێرانە\nساز بە بڕۆ با بگەینێ، ماندوو نەبی نەوەستی\nگوێگرە زرینگە و هۆڕەی دێ، کاروان دەڕوا بە مەستی\nکوا شۆڕەلاو؟ کوا شۆخەکیژ؟ کوا هەوهەوی دەسواران؟\nخوێناوی دڵ دەخۆمەوە، سووتام لەتاوی یاران",
+            "filename": "433_saidaWan_Mohamad-Mamle_20260801-1451.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260801-1615",
+            "size": 4,
+            "document_id": 6012797873295466687,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/433_saidaWan_Mohamad-Mamle_20260801-1451.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/433.jpg"
+        },
+        "434": {
+            "id": "434",
+            "title": "کوردستان",
+            "performer": "مەرزیە فەریقی",
+            "duration": 380,
+            "date": "20260802-1044",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "653",
+            "message": "بێ تۆ بێ ئاوات و خورپەم\nبێ تۆ بێ هەناسە و چرپەم\nبێ تۆ بێ کەس و بێ دەرم\nبێ تۆ بێ بەرگ و بێ بەرم\n~>\nمەرزیە فەریقی",
+            "filename": "434_saidaWan_20260802-1044.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260802-1219",
+            "size": 8,
+            "document_id": 6012797873295466689,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/434_saidaWan_20260802-1044.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/434.jpg"
         }
     },
     "general_info": {
-        "total_duration": 133189,
-        "last_downloaded_internal_id": 431
+        "total_duration": 134126,
+        "last_downloaded_internal_id": 434
     }
 }
