@@ -9545,10 +9545,32 @@
             "document_id": 6012797873295466689,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/434_saidaWan_20260802-1044.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/434.jpg"
+        },
+        "435": {
+            "id": "435",
+            "title": "وەرە ئەی باوانم",
+            "performer": "Foad Yareh & Loghman",
+            "duration": 191,
+            "date": "20260804-0421",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "656",
+            "message": "",
+            "filename": "435_saidaWan_Foad-Yareh-Loghman_20260804-0421.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260804-1205",
+            "size": 4,
+            "document_id": 6019448149116984019,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/435_saidaWan_Foad-Yareh-Loghman_20260804-0421.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/435.jpg"
         }
     },
     "general_info": {
-        "total_duration": 134126,
-        "last_downloaded_internal_id": 434
+        "total_duration": 134317,
+        "last_downloaded_internal_id": 435
     }
 }
