@@ -9589,10 +9589,76 @@
             "document_id": 6026285195886337698,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/436_saidaWan_Marzie_20260805-2252.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/436.jpg"
+        },
+        "437": {
+            "id": "437",
+            "title": "Ax û Eman",
+            "performer": "Evin",
+            "duration": 140,
+            "date": "20260809-1056",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "658",
+            "message": "",
+            "filename": "437_saidaWan_Evin_20260809-1056.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260809-1952",
+            "size": 4,
+            "document_id": 6037287712392750231,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/437_saidaWan_Evin_20260809-1056.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/437.jpg"
+        },
+        "438": {
+            "id": "438",
+            "title": "Zere",
+            "performer": "Aynur Dogan",
+            "duration": 279,
+            "date": "20260812-2204",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "659",
+            "message": "",
+            "filename": "438_saidaWan_Zere_Aynur-Dogan_20260812-2204.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260814-1940",
+            "size": 5,
+            "document_id": 5253480700841037570,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/438_saidaWan_Zere_Aynur-Dogan_20260812-2204.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/438.jpg"
+        },
+        "439": {
+            "id": "439",
+            "title": "الا ای آهوی وحشی",
+            "performer": "Faramarz Aslani",
+            "duration": 350,
+            "date": "20260814-2130",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "660",
+            "message": "الا ای آهوی وحشی، کجایی؟\nمرا با توست چندین آشنایی\nدو تنها و دو سرگردان، دو بی‌کس\nدَد و دامت، کمین از پیش و از پس\nحافظ\n~>\nفرامرز اصلانی",
+            "filename": "439_saidaWan_Faramarz-Aslani_20260814-2130.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260814-2137",
+            "size": 15,
+            "document_id": 5764972389095971304,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/439_saidaWan_Faramarz-Aslani_20260814-2130.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/439.jpg"
         }
     },
     "general_info": {
-        "total_duration": 134818,
-        "last_downloaded_internal_id": 436
+        "total_duration": 135587,
+        "last_downloaded_internal_id": 439
     }
 }
