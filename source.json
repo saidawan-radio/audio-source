@@ -9677,10 +9677,32 @@
             "document_id": 5773891803514151378,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/440_saidaWan_NaserRazazi_20260818-2243.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/440.jpg"
+        },
+        "441": {
+            "id": "441",
+            "title": "بم خوانی-ای دل مجنون",
+            "performer": "MohamadReza Shajarian",
+            "duration": 302,
+            "date": "20260823-2310",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "663",
+            "message": "عشق را بی‌خویش بردی در حرم\nعقل را بیگانه کردی عاقبت\nشمع عالم بود لطف چاره‌گر\nشمع را پروانه کردی عاقبت\nحافظ\n~>\nمحمدرضا شجریان",
+            "filename": "441_saidaWan_MohamadReza-Shajarian_20260823-2310.m4a",
+            "mime_type": "audio/mp4",
+            "edit_date": "20260823-2317",
+            "size": 4,
+            "document_id": 6041625693786217383,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/441_saidaWan_MohamadReza-Shajarian_20260823-2310.m4a.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/441.jpg"
         }
     },
     "general_info": {
-        "total_duration": 135731,
-        "last_downloaded_internal_id": 440
+        "total_duration": 136033,
+        "last_downloaded_internal_id": 441
     }
 }
