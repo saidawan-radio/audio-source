@@ -8770,7 +8770,7 @@
             "message": "چۆن نەناڵێ ئەو دڵەی پڕ هەستی من؟!\nچۆن لە ئەژنۆ ببنەوە دوو دەستی من؟!\nچۆن نەناڵێ ئەو دڵە ئەنگاوتەیە؟!\nبەرد لە بەردی بێتەوە دەنگی هەیە\nهێمن\n~>\nڕەزا سەڵواتی",
             "filename": "399_saidaWan_Nalay-Joday_Reza-Salvati_20260208-1857.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20260618-1819",
+            "edit_date": "20260828-2145",
             "size": 10,
             "document_id": 5881754370940347334,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket05/master/musics/399_saidaWan_Nalay-Joday_Reza-Salvati_20260208-1857.mp3.opus",
@@ -9699,10 +9699,32 @@
             "document_id": 6041625693786217383,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/441_saidaWan_MohamadReza-Shajarian_20260823-2310.m4a.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/441.jpg"
+        },
+        "442": {
+            "id": "442",
+            "title": "افسانه",
+            "performer": "Aminollah Rashidi",
+            "duration": 299,
+            "date": "20260828-2130",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "664",
+            "message": "افسونگری ای افسانه من\nافسانه دل دیوانه من\nشوری و نویدی\nدر تیرگی شبهای سیه\nای روشنی کاشانه من\nچون نور امیدی\n~>",
+            "filename": "442_saidaWan_Aminollah-Rashidi_20260828-2130.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260828-2131",
+            "size": 5,
+            "document_id": 5805573646952964451,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/442_saidaWan_Aminollah-Rashidi_20260828-2130.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/442.jpg"
         }
     },
     "general_info": {
-        "total_duration": 136033,
-        "last_downloaded_internal_id": 441
+        "total_duration": 136332,
+        "last_downloaded_internal_id": 442
     }
 }
