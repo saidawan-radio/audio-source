@@ -9897,10 +9897,32 @@
             "document_id": 5882007052456305023,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/450_saidaWan_Mazhar-Khaleghi_20261002-1903.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/450.jpg"
+        },
+        "451": {
+            "id": "451",
+            "title": "خۆزگە بەو ڕۆژە",
+            "performer": "نادیار",
+            "duration": 337,
+            "date": "20261003-0936",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "674",
+            "message": "خۆزگە بەو ڕۆژە کە لەو مەنزڵە وێرانە دەڕۆم\nوەکوو مەل لەو قەفەز و دانە بەرەو لانە دەڕۆم\nگەرچی لەو ‌ڕێیە دەزانم کە غەریب نابەڵەدە\nمن بە بۆنی سەری ئەو زولفە پەرێشانە دەڕۆم\nحەقیقی\n~>",
+            "filename": "451_saidaWan_20261003-0936.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20261003-0954",
+            "size": 6,
+            "document_id": 5911326530738332013,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/451_saidaWan_20261003-0936.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/451.jpg"
         }
     },
     "general_info": {
-        "total_duration": 138780,
-        "last_downloaded_internal_id": 450
+        "total_duration": 139117,
+        "last_downloaded_internal_id": 451
     }
 }
