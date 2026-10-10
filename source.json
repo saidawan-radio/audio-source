@@ -9919,10 +9919,32 @@
             "document_id": 5911326530738332013,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/451_saidaWan_20261003-0936.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/451.jpg"
+        },
+        "452": {
+            "id": "452",
+            "title": "قەت نەدەی ئازاری گیانی",
+            "performer": "Karim Kaban",
+            "duration": 433,
+            "date": "20261007-2050",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "675",
+            "message": "وێڵم و تاریکە دەورم فەرشی ڕێگەم مەینەتە\nبێکەسم تەنها ئەناڵم مەرگی خۆمم عەزرەتە\nوا نەزانی دەستی غەم یادت لە دڵدا دەر ئەکا\nئەشکی خوێنینم دەلیلە بۆ کەسێ باوەڕ نەکا\nهەردی\n~>\nکەریم کابان",
+            "filename": "452_saidaWan_Karim-Kaban_20261007-2050.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20261007-2050",
+            "size": 11,
+            "document_id": 5920497656009860044,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/452_saidaWan_Karim-Kaban_20261007-2050.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/452.jpg"
         }
     },
     "general_info": {
-        "total_duration": 139117,
-        "last_downloaded_internal_id": 451
+        "total_duration": 139550,
+        "last_downloaded_internal_id": 452
     }
 }
