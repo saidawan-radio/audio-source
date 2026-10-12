@@ -9941,10 +9941,32 @@
             "document_id": 5920497656009860044,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/452_saidaWan_Karim-Kaban_20261007-2050.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/452.jpg"
+        },
+        "453": {
+            "id": "453",
+            "title": "گا دەسووتێم",
+            "performer": "Mohamad Mamle",
+            "duration": 130,
+            "date": "20261011-2130",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "676",
+            "message": "هەر کە دەتبینم دەڵێی تۆ شەم و منیش پەروانەتم\nتا سەراپا نەبمە کۆی زووخاڵ قەد ئارام ناگرم\nحەقمە خوێن بگریم لە بێدادی خەت و جەوری نیگا\nمن کە گیرۆدەی فەڕەنگ، یەخسیری دەستی کافرم\nوەفایی\n~>\nماملێ",
+            "filename": "453_saidaWan_Mohamad-Mamle_20261011-2130.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20261011-2132",
+            "size": 3,
+            "document_id": 5936250500834934170,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/453_saidaWan_Mohamad-Mamle_20261011-2130.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/453.jpg"
         }
     },
     "general_info": {
-        "total_duration": 139550,
-        "last_downloaded_internal_id": 452
+        "total_duration": 139680,
+        "last_downloaded_internal_id": 453
     }
 }
