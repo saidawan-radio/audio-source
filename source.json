@@ -9963,10 +9963,54 @@
             "document_id": 5936250500834934170,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/453_saidaWan_Mohamad-Mamle_20261011-2130.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/453.jpg"
+        },
+        "454": {
+            "id": "454",
+            "title": "فرزاد کمانگر",
+            "performer": "Farzad Kamangar",
+            "duration": 132,
+            "date": "20261014-1038",
+            "author_name": "A.R",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "678",
+            "message": "سرها بریده بینی بی‌جرم و بی‌جنایت...\n~>",
+            "filename": "454_saidaWan_Farzad-Kamangar_20261014-1038.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20261016-2111",
+            "size": 5,
+            "document_id": 5945031166334607862,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/454_saidaWan_Farzad-Kamangar_20261014-1038.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/454.jpg"
+        },
+        "455": {
+            "id": "455",
+            "title": "گریان بە زار",
+            "performer": "Adnan Karim",
+            "duration": 279,
+            "date": "20261016-2100",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "679",
+            "message": "دڵ لە میحنەت کەیلە ڕێم کەن با لە غەم دەرچم لە شار\nئەمڕۆ ڕۆژێکە لە جەمعی مەردومان بگرم کەنار\nدەستەئەژنۆ دانیشم بۆ حاڵی خۆم بگریم بە زار\nموسم عید است و ما نومید از دیدار یار\nعالمی در عیش و نوش و ما و چشم اشکبار\nسالم\n~>\nعەدنان کەریم",
+            "filename": "455_saidaWan_Adnan-Karim_20261016-2100.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20261016-2109",
+            "size": 5,
+            "document_id": 5951929717035639606,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/455_saidaWan_Adnan-Karim_20261016-2100.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/455.jpg"
         }
     },
     "general_info": {
-        "total_duration": 139680,
-        "last_downloaded_internal_id": 453
+        "total_duration": 140091,
+        "last_downloaded_internal_id": 455
     }
 }
